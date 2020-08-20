@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:terminal-cache
 EELAYER 30 0
 EELAYER END
 $Descr USLetter 11000 8500
@@ -26,7 +25,7 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf" H 1500 7250 
 	-1   0    0    1   
 $EndComp
 $Comp
-L terminal:PIC32MX270F256B-I_SP U1
+L terminal-rescue:PIC32MX270F256B-I_SP-terminal U1
 U 1 1 5D617B4B
 P 6250 2400
 F 0 "U1" H 3800 3450 50  0000 C CNN
