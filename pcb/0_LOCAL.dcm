@@ -1,0 +1,123 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Crystal
+D Two pin crystal
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+$CMP DB15_Female_HighDensity
+D 15-pin female D-SUB connector, High density (3 columns), Triple Row, Generic, VGA-connector
+K connector db15 VGA female D-SUB
+F  ~
+$ENDCMP
+#
+$CMP DB15_Female_HighDensity_MountingHoles
+D 15-pin female D-SUB connector, High density (3 columns), Triple Row, Generic, VGA-connector, Mounting Hole
+K connector db15 female D-SUB VGA
+F  ~
+$ENDCMP
+#
+$CMP Jumper
+D Jumper, normally closed
+K jumper bridge link NC
+F ~
+$ENDCMP
+#
+$CMP L79L05_TO92
+D Negative 100mA -30V Linear Regulator, Fixed Output -5V, TO-92
+K Voltage Regulator 100mA Negative
+F http://www.farnell.com/datasheets/1827870.pdf
+$ENDCMP
+#
+$CMP L79L08_TO92
+D Negative 100mA -30V Linear Regulator, Fixed Output -5V, TO-92
+K Voltage Regulator 100mA Negative
+F http://www.farnell.com/datasheets/1827870.pdf
+$ENDCMP
+#
+$CMP L79L12_TO92
+D Negative 100mA -30V Linear Regulator, Fixed Output -5V, TO-92
+K Voltage Regulator 100mA Negative
+F http://www.farnell.com/datasheets/1827870.pdf
+$ENDCMP
+#
+$CMP L79L15_TO92
+D Negative 100mA -30V Linear Regulator, Fixed Output -5V, TO-92
+K Voltage Regulator 100mA Negative
+F http://www.farnell.com/datasheets/1827870.pdf
+$ENDCMP
+#
+$CMP LM79L05_TO92
+D 3-Terminal Negative Regulator, -5V, TO-92
+K negative regulatpr
+F http://www.ti.com/lit/ds/symlink/lm79l.pdf
+$ENDCMP
+#
+$CMP LM79L12_TO92
+D 3-Terminal Negative Regulator, -12V, TO-92
+K negative regulatpr
+F http://www.ti.com/lit/ds/symlink/lm79l.pdf
+$ENDCMP
+#
+$CMP LM79L15_TO92
+D 3-Terminal Negative Regulator, -15V, TO-92
+K negative regulatpr
+F http://www.ti.com/lit/ds/symlink/lm79l.pdf
+$ENDCMP
+#
+$CMP MCP1700-1202E_TO92
+D 250mA Low Quiscent Current LDO, 1.2V output, TO-92
+K regulator linear ldo
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf
+$ENDCMP
+#
+$CMP MCP1700-1802E_TO92
+D 250mA Low Quiscent Current LDO, 1.8V output, TO-92
+K regulator linear ldo
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf
+$ENDCMP
+#
+$CMP MCP1700-2502E_TO92
+D 250mA Low Quiscent Current LDO, 2.5V output, TO-92
+K regulator linear ldo
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf
+$ENDCMP
+#
+$CMP MCP1700-2802E_TO92
+D 250mA Low Quiscent Current LDO, 2.8V output, TO-92
+K regulator linear ldo
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf
+$ENDCMP
+#
+$CMP MCP1700-3002E_TO92
+D 250mA Low Quiscent Current LDO, 3.0V output, TO-92
+K regulator linear ldo
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf
+$ENDCMP
+#
+$CMP MCP1700-3302E_TO92
+D 250mA Low Quiscent Current LDO, 3.3V output, TO-92
+K regulator linear ldo
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf
+$ENDCMP
+#
+$CMP MCP1700-5002E_TO92
+D 250mA Low Quiscent Current LDO, 5.0V output, TO-92
+K regulator linear ldo
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf
+$ENDCMP
+#
+$CMP PJ-102A
+D CONN PWR JACK 2X5.5MM SOLDER
+K CP-102A-ND
+F https://www.cui.com/product/resource/digikeypdf/pj-102a.pdf
+$ENDCMP
+#
+$CMP USB_A
+D USB Type A connector
+K connector USB
+F  ~
+$ENDCMP
+#
+#End Doc Library
