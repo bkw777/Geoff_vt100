@@ -1,4 +1,5 @@
 # Geoff's VT100 Terminal  
+BKW respin, NOT WORKING, needs Firmware.  
 ![](Geoff_vt100_1.jpg)  
 ![](Geoff_vt100_2.jpg)  
 ![](Geoff_vt100_3.jpg)
