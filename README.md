@@ -3,7 +3,7 @@
 ![](Geoff_vt100_2.jpg)  
 ![](Geoff_vt100_3.jpg)
 
-PCB from OSHPark: <https://oshpark.com/shared_projects/5vfXm2rY>  
+PCB from OSHPark: <https://oshpark.com/shared_projects/MvDzzk9e>  
 Parts from Digi-Key: <https://www.digikey.com/short/zrdw9v>
 
 ## Credits  
